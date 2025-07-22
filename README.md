@@ -66,9 +66,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amin-Noorani&show_icons=true&theme=radical" alt="Amin Noorani's GitHub stats" width="400"/>
-</p>
-
-<p align="center">
   <b>Let's build something amazing together!</b>
 </p>
