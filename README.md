@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://amin-noorani.ir/assets/logo.png" width="120" alt="Amin Noorani Logo" />
+  <img src="https://amin-noorani.ir/amin-noorani-logo.jpg" width="120" alt="Amin Noorani Logo" />
 </p>
 <h1 align="center">Hi 👋, I'm M. Amin Noorani</h1>
 
