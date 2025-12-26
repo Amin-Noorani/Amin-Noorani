@@ -50,10 +50,13 @@
   <sub>Contributor • Optimized tools for website enhancement</sub>
   
 ### 🎨 Themes
-- [**Lenz Theme**](https://www.rtl-theme.com/lens-wordpress-theme/) <br>
-  <sub>Creator • Modern and minimal WordPress theme for photography and portfolio</sub>
+- [**Luxina Theme**](https://www.rtl-theme.com/luxina-wordpress-theme/) <br>
+  <sub>Creator • Luxury corporate WordPress theme for brands, companies, and professional businesses</sub>
 - [**Dr-Plus Theme**](https://www.rtl-theme.com/dr-plus-wordpress-theme/) <br>
   <sub>Creator • Professional theme for clinics, doctors, and health services</sub>
+- [**Lenz Theme**](https://www.rtl-theme.com/lens-wordpress-theme/) <br>
+  <sub>Creator • Modern and minimal WordPress theme for photography and portfolio</sub>
+
 
 ---
 
